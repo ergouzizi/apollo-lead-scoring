@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+.env
+*.log
+*.tmp
+*.bak
+*.xlsx
+*.xls
+*.csv
+*.tsv
+*_cache/
+raw/
+cache/
+outputs/
+*.pid

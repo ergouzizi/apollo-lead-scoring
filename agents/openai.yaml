@@ -1,0 +1,4 @@
+interface:
+  display_name: "Apollo Lead Scoring"
+  short_description: "Apollo客户证据抓取、AI评分与Excel写回工作流"
+  default_prompt: "Use $apollo-lead-scoring to run an Apollo company evidence, scoring, and Excel writeback workflow."
