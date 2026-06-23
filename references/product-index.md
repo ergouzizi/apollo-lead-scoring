@@ -6,7 +6,7 @@ Use one product rule per product direction. Do not merge unrelated product logic
 
 - `digital_signage`: small indoor digital signage hardware. Customer must bring CMS/content publishing/screen management/project delivery. See `digital-signage-rules.md`.
 - `scanner`: plug-and-play barcode scanner / barcode reader / Auto-ID hardware. Customer does not need self-developed software. See `scanner-rules.md`.
-- `pos`: POS machine / cashier hardware direction. Use `pos-rules-template.md` as the starting point until a salesperson-calibrated POS rule exists.
+- `pos`: Windows POS all-in-one / cashier hardware / customized self-ordering kiosk direction. Use `pos-rules.md`; `pos-rules-template.md` is only the old blank intake template.
 
 ## Adding A New Product
 

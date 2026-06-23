@@ -18,7 +18,8 @@ Never let Python keyword matching decide the final customer score. Python only r
 3. Choose the product rule:
    - Digital signage: read `references/digital-signage-rules.md`.
    - Scanner: read `references/scanner-rules.md`.
-   - New product such as POS: read `references/product-index.md` and create/update a product rule from `references/pos-rules-template.md`.
+   - POS: read `references/pos-rules.md`.
+   - New product without a calibrated rule: read `references/product-index.md` and create/update a product rule from a suitable template.
 4. Export evidence with `scripts/export_evidence.py`.
 5. Have the Agent generate a judgement JSON. Use `references/excel-fields.md` for required JSON keys and Excel columns.
 6. Write results with `scripts/write_judgements.py`.
