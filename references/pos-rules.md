@@ -72,8 +72,8 @@ P3 Retail / store management systems:
 P4 POS hardware channel / merchant terminal distributors:
 
 - Industry: `business supplies & equipment, information technology & services, computer hardware, retail`
-- Keywords: `POS terminal, POS hardware, POS machine, cash register, cashier machine, POS all-in-one, touch POS, POS supplier, POS distributor, POS reseller, POS dealer, POS agent, cash register supplier, retail hardware supplier, máy tính tiền, may tinh tien, máy POS, may POS, thiết bị POS, thiet bi POS, thiết bị bán hàng, thiet bi ban hang`
-- Note: P4 is the integrated wide-recall batch for direct Company Keywords searches. It combines POS hardware product terms, channel/supplier terms, and Vietnamese local terms. Keep `Windows POS terminal`, `i3 POS terminal`, and `i5 POS terminal` as website/Agent judgement evidence instead of first-layer Apollo recall terms.
+- Keywords: `POS terminal, POS hardware, POS machine, cash register, cashier machine, POS all-in-one, touch POS, POS supplier, POS distributor, POS reseller, POS dealer, POS agent, cash register supplier, retail hardware supplier`
+- Note: P4 is the integrated wide-recall batch for direct Company Keywords searches. It combines POS hardware product terms and channel/supplier terms. Keep country-local language terms outside the generic rule; add them only as temporary country-specific query extensions when recall is weak.
 
 P5 Payment / merchant service companies:
 
