@@ -10,13 +10,15 @@ Supported peripherals and interfaces may include `MSR`, `iButton`, `NFC`, printe
 
 Do not treat this POS direction as Android POS or handheld mobile POS by default. The salesperson explicitly said the company does not do handheld mobile POS solutions.
 
+The salesperson's `待确认` values in the POS intake workbook should be treated as confirmed. The notes in the same rows are formal keyword additions or cautions, not unresolved questions.
+
 ## High Priority Customers
 
 - POS software and hardware integrators.
 - POS agents, distributors, wholesalers, and hardware suppliers.
 - POS system vendors with their own cashier software and batch hardware procurement needs.
 - Restaurant, retail, convenience store, supermarket, and hotel POS solution providers that deploy cashier hardware for clients.
-- Self-ordering kiosk solution providers, distributors, or hardware suppliers when they need customized kiosk hardware.
+- Self-ordering kiosk solution providers, distributors, or hardware suppliers only when they may need customized POS/kiosk hardware; this is a low-priority extension, not the core POS all-in-one batch.
 
 High-score evidence should show at least one of:
 
@@ -88,6 +90,7 @@ P7 Self-ordering / kiosk solution providers:
 
 - Industry: `information technology & services, restaurants, hospitality, retail, computer hardware`
 - Keywords: `self service kiosk, ordering kiosk, self ordering, kiosk POS, touch screen kiosk for restaurant, retail self payment kiosk, kiosk hardware supplier, self ordering machine distributor`
+- Caution: P7 is confirmed by salesperson notes, but it is a customized-solution extension. Downgrade or exclude large floor-standing cabinet-only kiosk makers, ticketing/banking/hospital kiosks, ATM, vending machines, and queue-management machines unless there is a clear Windows POS all-in-one, touch ordering terminal, or restaurant/retail POS hardware fit.
 
 ## Scoring Levels
 
